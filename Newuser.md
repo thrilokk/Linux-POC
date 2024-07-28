@@ -49,13 +49,13 @@ Example: for symbolic notation
 
 - Understanding the Symbols
 
-u: User (owner of the file)
-g: Group (group the file belongs to)
-o: Others (all other users)
-a: All (user, group, and others)
-+: Add permission
--: Remove permission
-=: Set permission
-r: Read permission
-w: Write permission
-x: Execute permission
+- u: User (owner of the file)
+- g: Group (group the file belongs to)
+- o: Others (all other users)
+- a: All (user, group, and others)
+- +: Add permission
+- -: Remove permission
+- =: Set permission
+- r: Read permission
+- w: Write permission
+- x: Execute permission
